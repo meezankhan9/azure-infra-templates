@@ -12,7 +12,7 @@ This module deploys a **Virtual Machine Scale Set (VMSS)** in Azure with autosca
 
 ### 📊 Architecture Diagram
 
-![VMSS Architecture](../../diagrams/vmss-autoscaling.png)
+![VMSS Architecture](./diagrams/vmss-autoscaling.png)
 
 ## 📁 Folder Structure
 
