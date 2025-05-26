@@ -6,8 +6,13 @@ This module deploys a **Virtual Machine Scale Set (VMSS)** in Azure with autosca
 - Virtual Network & Subnet
 - Linux VM Scale Set
 - Autoscaling rules (scale in/out based on CPU)
+  
 
 ---
+
+### 📊 Architecture Diagram
+
+![VMSS Architecture](../../diagrams/vmss-autoscaling.png)
 
 ## 📁 Folder Structure
 
